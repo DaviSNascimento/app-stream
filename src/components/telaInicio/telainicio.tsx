@@ -1,4 +1,4 @@
-import './TelaInicio.css'; // Importando os estilos
+import './telaInicio.css'; // Importando os estilos
 import Navbar from '../navbar/Navbar';
 import ListaVideo from '../listaVideos/listaVideos';
 import { useState } from 'react';
